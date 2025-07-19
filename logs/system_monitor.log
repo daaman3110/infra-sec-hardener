@@ -1,0 +1,74 @@
+================================= [Sat Jul 19 10:12:22 PM IST 2025]==================================
+
+
+CPU Load Average (1, 5, 15 mins):
+0.00, 0.00, 0.00
+
+
+Memory Usage:
+Total: 7695 MB
+Used: 1219 MB
+Free: 5967 MB
+
+
+Disk Usage:
+Filesystem                Size  Used Avail Use% Mounted on
+/dev/mapper/rl_vbox-root   46G  5.9G   41G  13% /
+
+
+Top 5 Processes by CPU:
+    PID USER     %CPU COMMAND
+   1959 daamanp+  0.3 gnome-shell
+   2189 daamanp+  0.2 gnome-software
+      1 root      0.1 systemd
+    746 polkitd   0.1 polkitd
+      2 root      0.0 kthreadd
+
+
+Top 5 Processes by Memory:
+    PID USER     %MEM COMMAND
+   1959 daamanp+  9.1 gnome-shell
+   2189 daamanp+  3.2 gnome-software
+      1 root      0.4 systemd
+    746 polkitd   0.6 polkitd
+      2 root      0.0 kthreadd
+
+
+==============================================================================
+================================= [Sat Jul 19 10:12:43 PM IST 2025]==================================
+
+
+CPU Load Average (1, 5, 15 mins):
+0.00, 0.00, 0.00
+
+
+Memory Usage:
+Total: 7695 MB
+Used: 1219 MB
+Free: 5968 MB
+
+
+Disk Usage:
+Filesystem                Size  Used Avail Use% Mounted on
+/dev/mapper/rl_vbox-root   46G  5.9G   41G  13% /
+
+
+Top 5 Processes by CPU:
+    PID USER     %CPU COMMAND
+   1959 daamanp+  0.3 gnome-shell
+   2189 daamanp+  0.2 gnome-software
+      1 root      0.1 systemd
+    746 polkitd   0.1 polkitd
+      2 root      0.0 kthreadd
+
+
+Top 5 Processes by Memory:
+    PID USER     %MEM COMMAND
+   1959 daamanp+  9.1 gnome-shell
+   2189 daamanp+  3.2 gnome-software
+      1 root      0.4 systemd
+    746 polkitd   0.6 polkitd
+      2 root      0.0 kthreadd
+
+
+==============================================================================
