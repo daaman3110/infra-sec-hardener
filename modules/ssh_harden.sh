@@ -55,6 +55,17 @@ echo ""
 echo "[*] Restarting SSH Service"
 echo "sudo systemctl restart sshd"
 
+# Step 7: FAIL2BAN INSTALLATION AND WORKING TO BLOCK BRUTE FORCE ATTACKS
+echo "sudo dnf install epel-release -y"
+echo "sudo dnf install fail2ban -y"
+
+echo "sudo systemctl enable fail2ban"
+echo "sudo systemctl start fail2ban"
+
+echo "sudo systemctl status fail2ban --no-pager"
+
+echo "fail2ban setup complete and running"
+
 echo ""
 echo ""
 echo "========================= SSH Hardening Script Complete =============================="
